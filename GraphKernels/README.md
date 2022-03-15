@@ -128,15 +128,6 @@ first exercise.
     ```
 
 
-****datasets****
-----------------
-- This directory contains DD, ENZYMES, and NCI1 dataset used to evaluate various kernels.
-
-****Sandbox****
----------------
-- This directory contains dirty code. ** Do Not Look **
-
-
 
 
 
