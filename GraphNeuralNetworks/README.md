@@ -25,10 +25,6 @@ For training we used **cross-entropy** loss with **Adam** optimizer.
 
 **Dataset ENZYMES:** The learning rate is 1e-3, the number of epochs is 100.  We added a dropout layer after the hidden dense layer with dropout rate 0.10.
 
-****Datasets****
-----------------
-This directory contains Citeseer_Eval, Citeseer_Train, Cora_Eval, Cora_Train, NCI1 and ENZYMES used to evaluate Node Classification and Graph Classification.
-
 ****Scripts****
 ----------------
 "node_class.py" contains implementation for node classification and evaluation. 
